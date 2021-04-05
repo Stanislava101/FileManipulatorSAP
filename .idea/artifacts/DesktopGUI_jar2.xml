@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DesktopGUI:jar2">
+    <output-path>$PROJECT_DIR$/DesktopGUI_jar</output-path>
+    <root id="archive" name="DesktopGUI.jar">
+      <element id="module-output" name="DesktopGUI" />
+    </root>
+  </artifact>
+</component>
